@@ -1,0 +1,7 @@
+650073239,Loan Applied,100000.0
+5a2df29c41,Deposit,6000.0
+5a7df7459,Transfer to 5a2df29c41,8000.0
+5a2df29c41,Received from 5a7df7459,8000.0
+5a2df29c41,Loan Applied,400000.0
+a291604f3e,Transfer to sajhduh767,40000.0
+sajhduh767,Received from a291604f3e,40000.0
